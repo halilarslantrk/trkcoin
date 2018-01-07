@@ -1,0 +1,9 @@
+Building TRKCOIN
+
+See doc/readme-qt.rst for instructions on building TRKCOIN-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of TRKCOIN.
+
+See doc/build-*.txt for instructions on building trkcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of TRKCOIN.
